@@ -1,4 +1,7 @@
 print('salam')
 print('HELLo')
-input('input')
+print('input')
 print('forms')
+
+for i in range(0, 10):
+    print(1)
